@@ -4,10 +4,12 @@ using namespace std;
 
 int main()
 {
-	  int score = 666864;
-	  cout <<  "My Score is "  << score << "." << endl;
+	int month = 3;
+	
+	if (month == 1) {
+		cout << "Happy New Years" << endl;
+	}
+	if (month == 12) {
+		cout << "Happy Birthday" << endl;
+	}
 }
-#include <double>
-123
-
-
